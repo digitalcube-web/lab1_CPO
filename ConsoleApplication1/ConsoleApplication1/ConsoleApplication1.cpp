@@ -21,8 +21,8 @@ bool SumCoordZ(int size, Coord* arr);
 
 int main()
 {
-    // test
-    // test
+    // test1
+    // test1
     setlocale(LC_ALL, "ru");
     int n;
 
